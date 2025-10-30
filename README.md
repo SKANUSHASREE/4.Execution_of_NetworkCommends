@@ -32,6 +32,11 @@ This commands includes
 <img width="1913" height="1141" alt="image" src="https://github.com/user-attachments/assets/fdc244f1-d83b-4ead-bb31-08efe580c8d2" />
 <img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/aa9be2fa-3796-4840-971f-eaad91a9f55a" />
 <img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/1e1e2b54-0fb1-43e8-b028-0335dca7d80f" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/4bd83901-2d51-411b-bab5-a4728b07a6cf" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/a9de7020-8800-418f-83ec-5bcb7d56eb89" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/0edd749d-0560-4355-9447-45bf006c2dc2" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/cfd6fb99-9df2-4c91-ab37-8c456f9fb9af" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/ce479f02-0e8e-4277-8f83-daf66341633d" />
 
 ## Result
 Thus Execution of Network commands Performed 
